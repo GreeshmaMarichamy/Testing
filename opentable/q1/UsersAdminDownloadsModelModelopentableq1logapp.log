@@ -1,0 +1,31 @@
+2024-05-02 14:10:05 INFO  Opentable:41 - open url
+  2024-05-02 14:10:08 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 14:10:17 INFO  Opentable:46 - select Bangalore
+  2024-05-02 14:10:20 WARN  Opentable:51 - Wait for 3 sec
+  2024-05-02 14:10:29 INFO  Opentable:64 - selected 4 people
+  2024-05-02 14:10:30 INFO  Opentable:72 - Selected November
+  2024-05-02 14:11:51 INFO  Opentable:41 - open url
+  2024-05-02 14:11:54 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 14:12:08 INFO  Opentable:46 - select Bangalore
+  2024-05-02 14:12:12 WARN  Opentable:51 - Wait for 3 sec
+  2024-05-02 14:18:31 INFO  Opentable:41 - open url
+  2024-05-02 14:18:34 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 14:18:37 INFO  Opentable:46 - select Bangalore
+  2024-05-02 14:18:41 WARN  Opentable:51 - Wait for 3 sec
+  2024-05-02 14:18:46 INFO  Opentable:64 - selected 4 people
+  2024-05-02 14:18:47 INFO  Opentable:72 - Selected November
+  2024-05-02 14:18:50 INFO  Opentable:82 - Screenshot taken
+  2024-05-02 14:18:51 INFO  Opentable:83 - Terminated
+  2024-05-02 14:22:03 INFO  Opentable:41 - open url
+  2024-05-02 14:22:06 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 14:22:09 INFO  Opentable:46 - select Bangalore
+  2024-05-02 14:22:12 WARN  Opentable:51 - Wait for 3 sec
+  2024-05-02 14:22:17 INFO  Opentable:64 - selected 4 people
+  2024-05-02 14:22:18 INFO  Opentable:72 - Selected November
+  2024-05-02 14:22:22 INFO  Opentable:82 - Screenshot taken
+  2024-05-02 14:22:22 INFO  Opentable:83 - Terminated
+  2024-05-02 14:27:27 INFO  Opentable:41 - open url
+  2024-05-02 14:27:30 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 14:27:34 INFO  Opentable:46 - select Bangalore
+  2024-05-02 14:27:39 WARN  Opentable:51 - Wait for 3 sec
+  
